@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
-<img align="right" alt="coding" width="400" src="https://www.google.com.vn/urlsa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2TQ78AQ3LpELHYw5Pp7fXL&ust=1673546569359000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi2sviMwPwCFQAAAAAdAAAAABAZ">
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=19521791&label=Profile%20views&color=0e75b6&style=flat" alt="19521791" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
