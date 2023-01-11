@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/79817900/211885736-6358774d-8e13-4289-8c3a-d477b676a1e7.gif)
+![long](https://user-images.githubusercontent.com/79817900/211885942-bef9fe14-5a81-4299-b39f-8cd5d5851118.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=19521791&label=Profile%20views&color=0e75b6&style=flat" alt="19521791" /> </p>
 
