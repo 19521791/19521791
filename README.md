@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
-![long](https://user-images.githubusercontent.com/79817900/211885942-bef9fe14-5a81-4299-b39f-8cd5d5851118.gif)
 
-
+<p><img align="right" alt="coding" width="400" height="320" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=19521791&label=Profile%20views&color=0e75b6&style=flat" alt="19521791" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
