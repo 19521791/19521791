@@ -33,10 +33,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     
-
-[![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=19521791)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19521791&layout=compact)]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=19521791&show_icons=true&locale=en&layout=compact" alt="19521791" /></p>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=19521791&show_icons=true&locale=en" alt="19521791" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19521791&" alt="19521791" /></p>
 
