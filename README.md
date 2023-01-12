@@ -34,7 +34,7 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     
 
-![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=19521791&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=19521791&show_icons=true&theme=radical)
 
 
 
