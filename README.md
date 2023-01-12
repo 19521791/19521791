@@ -34,9 +34,9 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=19521791)](https://github.com/anuraghazra/github-readme-stats)
+[![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=19521791)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[19521791]&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19521791&layout=compact)]
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19521791&" alt="19521791" /></p>
 
