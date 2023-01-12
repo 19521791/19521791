@@ -36,8 +36,8 @@
     
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19521791&" alt="19521791" /></p>
-<p><img align="left" alt="Violet" width="350" height="300" src="https://kenh14cdn.com/2017/10-1512978642701.gif"></p>
-<p><img align="right" alt="Violet" width="350" height="300" src="https://www.icegif.com/wp-content/uploads/icegif-1721.gif"></p>
+<p><img align="left" alt="Violet" width="380" height="300" src="https://kenh14cdn.com/2017/10-1512978642701.gif"></p>
+<p><img align="right" alt="Violet" width="380" height="300" src="https://www.icegif.com/wp-content/uploads/icegif-1721.gif"></p>
 
 
 
