@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Vision**
+- 📭 How to reach me [toannguyenvan145@gmail.com](mailto:toannguyenvan145@gmail.com) 
 
 <p align="left">
 </p>
