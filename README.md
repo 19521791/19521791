@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
   
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> 
   
@@ -24,7 +24,7 @@
 
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> 
 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/seaborn-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> 
 
 </p>
 <p>
