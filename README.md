@@ -16,9 +16,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
   
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> 
   
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
 
