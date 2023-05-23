@@ -34,9 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</p>![NodeJS-Dark](https://github.com/19521791/19521791/assets/79817900/cf905607-2d50-4636-bc1f-acd6ef15568c)
-
-    ![TailwindCSS-Dark](https://github.com/19521791/19521791/assets/79817900/17923928-d78f-44ac-bac1-bf6c0114513b)
+</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19521791&" alt="19521791" /></p>
