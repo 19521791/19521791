@@ -2,7 +2,7 @@
 <h2 align="center"> A computer science student at UIT</h2>
 
 <p align="right">
-  <img src="https://giphy.com/embed/mTPjPA6SSXgTsnZ1Dh" width="480" height="320">
+  <img src="https://media4.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=ecf05e47luw9yn5wpybka2xef7ns89gdn5jwuz5g3zw5my4n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=19521791&label=Profile%20views&color=0e75b6&style=flat" alt="19521791" /> </p>
