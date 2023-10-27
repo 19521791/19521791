@@ -12,10 +12,8 @@
 
 <p align="left">
 </p>
-<p align="right">
-  <img src="https://media4.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=ecf05e47luw9yn5wpybka2xef7ns89gdn5jwuz5g3zw5my4n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-</p>
-<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
@@ -55,6 +53,11 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
 </p>
 
+</div>
+
+<p align="right">
+  <img src="https://media4.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=ecf05e47luw9yn5wpybka2xef7ns89gdn5jwuz5g3zw5my4n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=19521791&" alt="19521791" /></p>
 <p><img align="left" alt="Violet" width="380" height="300" src="https://kenh14cdn.com/2017/10-1512978642701.gif"></p>
