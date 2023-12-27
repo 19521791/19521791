@@ -19,9 +19,6 @@ I'm a senior student at University of Information Technology
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails**, **NodeJS**, **Computer Vision** 
-- 📭 How to reach me [toannguyenvan145@gmail.com](mailto:toannguyenvan145@gmail.com) 
-
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
