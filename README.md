@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Long</h1>
-<h2 align="center"> A Backend Developer</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Douglus Nguyen
+======================================================================================================================================
+
+Backend Developer
+-----------------
+
+I'm a senior student at University of Information Technology
+
+* 🌍  I'm based in Dak Lak
+* ✉️  You can contact me at [toannguyenvan145@gmail.com](mailto:toannguyenvan145@gmail.com)
+* 🚀  I'm currently working on [Hello Clever](http://helloclever.co/)
+* 🧠  I'm learning Ruby on Rails and NodeJS
 
 <p align="center">
   <img src="https://media4.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=ecf05e47luw9yn5wpybka2xef7ns89gdn5jwuz5g3zw5my4n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
