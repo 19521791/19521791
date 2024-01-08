@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I'm a senior student at University of Information Technology
-
 * 🌍  I'm based in Dak Lak
 * ✉️  You can contact me at [toannguyenvan145@gmail.com](mailto:toannguyenvan145@gmail.com)
 * 🚀  I'm currently working on [Hello Clever](http://helloclever.co/)
