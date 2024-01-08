@@ -5,7 +5,7 @@ Backend Developer
 -----------------
 
 * 🌍  I'm based in Dak Lak
-* ✉️  You can contact me at [toannguyenvan145@gmail.com](mailto:douglus.nguyen@helloclever.co)
+* ✉️  You can contact me at [douglus.nguyen@helloclever.co](mailto:douglus.nguyen@helloclever.co)
 * 🚀  I'm currently working on [Hello Clever](http://helloclever.co/)
 * 🧠  I'm learning Ruby on Rails and NodeJS
 
