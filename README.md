@@ -9,7 +9,7 @@ Backend Developer
 * 🚀  I'm currently working on [Hello Clever](http://helloclever.co/)
 * 🧠  I'm learning Ruby on Rails and NodeJS
 
-![3D Model](https://link-to-your-image.gif)
+[View my 3D Model](https://my.spline.design/rocket-36ae12551eb1ebdd76b327136aa05245/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=19521791&label=Profile%20views&color=0e75b6&style=flat" alt="19521791" /> </p>
 
