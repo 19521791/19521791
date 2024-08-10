@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Douglus Nguyen
+<a href="#" target="_blank">
+  <img src="douglus.svg" width="1200" alt="douglus test" />
+</a>
 ======================================================================================================================================
 
 Backend Developer
