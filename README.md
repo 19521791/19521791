@@ -3,9 +3,6 @@
 </p>
 ======================================================================================================================================
 
-Backend Developer
------------------
-
 ## 🚀 About Me
 
 **`Backend Developer`** `Dak Lak, Vietnam`
@@ -13,6 +10,8 @@ Backend Developer
 📫 **Contact:** [toannguyenvan145@gmail.com](mailto:toannguyenvan145@gmail.com)  
 🎯 **Learning:** Ruby on Rails • Node.js  
 🌐 **Portfolio:** [douglusnguyen.site](https://douglusnguyen.site) → *Full-stack projects & case studies*
+
+-----------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=19521791&label=Profile%20views&color=0e75b6&style=flat" alt="19521791" /> </p>
 
