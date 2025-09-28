@@ -6,11 +6,13 @@
 Backend Developer
 -----------------
 
-* 🌍  I'm based in Dak Lak
-* ✉️  You can contact me at [toannguyenvan145@gmail.com](mailto:toannguyenvan145@gmail.com)
-* 🚀  I worked at [Hello Clever](http://helloclever.co/)
-* 🧠  I'm learning Ruby on Rails and NodeJS
-* 💼  Portfolio: https://douglusnguyen.site/
+## 🚀 About Me
+
+**`Backend Developer`** `Dak Lak, Vietnam`
+
+📫 **Contact:** [toannguyenvan145@gmail.com](mailto:toannguyenvan145@gmail.com)  
+🎯 **Learning:** Ruby on Rails • Node.js  
+🌐 **Portfolio:** [douglusnguyen.site](https://douglusnguyen.site) → *Full-stack projects & case studies*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=19521791&label=Profile%20views&color=0e75b6&style=flat" alt="19521791" /> </p>
 
