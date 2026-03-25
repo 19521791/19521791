@@ -9,7 +9,7 @@
 
 📫 **Contact:** [toannguyenvan145@gmail.com](mailto:toannguyenvan145@gmail.com)  
 🎯 **Learning:** Ruby on Rails • Node.js  
-🌐 **Portfolio:** [douglusnguyen.site](https://douglusnguyen.site) → *Full-stack projects & case studies*
+🌐 **Portfolio:** [douglus.site](https://douglus.site) → *Full-stack projects & case studies*
 
 -----------------
 
